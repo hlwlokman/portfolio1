@@ -1,0 +1,47 @@
+#header-area {
+	float: left;
+    margin-left: 70%;
+
+}
+#list li {
+    text-decoration: none;
+    list-style: none;
+    float: left;
+    display: inline-block;
+    align-self : right;
+	padding: 5px;
+
+
+}
+#orange-highlight{
+	font-size: 50px;
+	font-family: 'Bebas Neue', cursive;
+	padding: 1px;
+	margin-top: 20%;
+}
+span{
+	color: orange;
+}
+.welcome-area {
+	background-color: grey;
+	
+
+}
+.half-side {
+	width: 40%;
+	float: left;
+	padding: 2%;
+	margin-left : 5%;
+   
+}
+.half-side img{
+	width: 100%;
+}
+.button-link{
+	text-decoration: none;
+	background-color: tomato;
+	padding: 10px 20px;
+	border-radius: 10px;
+	color: white;
+	margin-top: 10px;
+}
